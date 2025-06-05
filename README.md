@@ -16,7 +16,7 @@ https://t.me/toneachat
 
 领奖信息收集：
 1. 你的 Telegram 用户名 = ？
-2. 你的主网 TON 钱包地址 = ？
+2. 你的主网 TON 钱包地址 = UQCGvB-p2uQBRaiAZvdc1h40XSDv1LRAop5FCOft1RtgcAJP
 
 
 ## 任务 1：TON Connect 主网链接警告
