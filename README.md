@@ -15,8 +15,8 @@ https://t.me/toneachat
 课件地址：https://ton-org.notion.site/V-TON-Connect-2075274bd2cf8047a5a8d7e99c40b167
 
 领奖信息收集：
-1. 你的 Telegram 用户名 = ？
-2. 你的主网 TON 钱包地址 = ？
+1. 你的 Telegram 用户名 = @VirtusMaximus
+2. 你的主网 TON 钱包地址 = UQDWcq93d_f-VmHIlwuQmqbf1kpMucy2Aro3EVXnG5kC0_8O
 
 
 ## 任务 1：TON Connect 主网链接警告
